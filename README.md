@@ -14,9 +14,14 @@
 
 * Some moderation funcionality (like supect link removal) and SPAM detection.
 
+## Additional Requirements
+
+* For the sounds to be played, "ffmpeg.exe" must be in the project's root directory.
+* <b style="color: red">ffmpeg.exe</b> can be downloaded here: <a href="https://www.gyan.dev/ffmpeg/builds/">LINK</a>! Thank's to gyan.dev for the release builds.
+
 ## Contributions
 
-* TeliDev [https://github.com/ImTeli]
+* <a href="https://github.com/ImTeli">TeliDev</a>
 
 ## License
 
